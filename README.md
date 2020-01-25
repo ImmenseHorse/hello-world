@@ -1,2 +1,5 @@
 # hello-world
-Learn how to use GitHub
+Personal Statement:
+
+I am Duc,
+I have great time-management skills and innovative approach to study tasks.
